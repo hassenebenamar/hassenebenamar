@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Hassene Ben Amar  
 
-<!--
-**hassenebenamar/hassenebenamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer with a strong interest in **fullstack development, computer graphics, AI and robotics**.  
+I enjoy building interactive applications, experimenting with cutting-edge technologies, and turning complex ideas into usable products.  
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages**: Python, C++, JavaScript/TypeScript  
+- **Frameworks**: React, Node.js, Django, FastAPI, PyTorch  
+- **Specialties**: Unreal Engine, Computer Vision, RAG (Retrieval-Augmented Generation), 3D visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Projects
+- **Football Vision App** – a computer vision project using PyTorch & OpenCV  
+- **Unreal Simulation** – systems & agents modeling in Unreal Engine    
+- **Blender Modelisation App** - Semi-automatically create a dataset made up of annotated synthetic images, made using Python and Blender.
+
+## Connect with me
+- [Portfolio](https://hassenebenamar.dev)  
+- [LinkedIn](https://www.linkedin.com/in/hassene-ben-amar-531859199/)  
+- [GitHub](https://github.com/hassenebenamar)  
+
+---
