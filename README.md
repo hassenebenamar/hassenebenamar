@@ -9,7 +9,7 @@ I enjoy building interactive applications, experimenting with cutting-edge techn
 - **Specialties**: Unreal Engine, Computer Vision, RAG (Retrieval-Augmented Generation), 3D visualization  
 
 ## Selected Projects
-- **Pathfinder's Tale** - An interactive travel storytelling experience powered by React Three Fiber, Three.js, and Storyblok.
+- **Travelpins** - An interactive travel storytelling experience powered by React Three Fiber, Three.js, and Storyblok.
 - **Unreal Simulation** – systems & agents modeling in Unreal Engine    
 - **Football Vision App** – a computer vision project using PyTorch & OpenCV  
 - **Blender Modelisation App** - Semi-automatically create a dataset made up of annotated synthetic images, made using Python and Blender.
