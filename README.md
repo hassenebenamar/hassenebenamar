@@ -10,7 +10,7 @@ I enjoy building interactive applications, experimenting with cutting-edge techn
 
 ## Selected Projects
 - **Travelpins** - An interactive travel storytelling experience powered by React Three Fiber, Three.js, and Storyblok.
-- **Unreal Simulation** – systems & agents modeling in Unreal Engine    
+- **Unreal Simulation** – Repo containing the research project for my M1 thesis, exploring the study of evolution in a virtual world using Unreal Engine 5 and C++.   
 - **Football Vision App** – a computer vision project using PyTorch & OpenCV  
 - **Blender Modelisation App** - Semi-automatically create a dataset made up of annotated synthetic images, made using Python and Blender.
 
